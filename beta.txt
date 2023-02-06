@@ -1,1 +1,2 @@
 beta alpha text document
+second line added
